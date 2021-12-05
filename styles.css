@@ -1,0 +1,69 @@
+#headStuff {
+    background-image: url(./images/bbadrv.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -100px;
+    background-size: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.titleStuff {
+    background: rgba(255, 249, 230, 0.5);
+    padding: 10px;
+    outline: rgba(26, 20, 0, 0.5) solid 3px;
+}
+
+
+.green-logo {
+    color: aliceblue;
+    background: green;
+    border: 2px solid white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.js-container {
+    display: flex;
+    font-family: Arial, sans-serif;
+    border-bottom: black solid 3px;
+    margin-bottom: 1px;
+}
+
+.output {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.js-char-stats {
+    margin-bottom: 50px;
+}
+
+.js-char-boxes {
+    width: 100%;
+
+}
+
+.charImg {
+    width: 40%;
+}
+
+.spaceBtm {
+    margin-bottom: 20px;
+}
+
+.theQuote {
+    font-weight: bold;
+}
+
+.js-container-quote {
+    margin-bottom: 50px;
+    background: rgb(250, 250, 250);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
